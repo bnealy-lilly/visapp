@@ -1,7 +1,7 @@
 ## Stephanie Strakbein
 ## Rainfall Animation Function
 # 
-# 
+# # Variables for testing in browser environment
 # inputdata <- rainfall_adam[[1]]
 # studyname <- input$rainfall_studyname
 # end.point <- input$rainfall_endpoint

@@ -49,9 +49,7 @@ spider_data_format <- function(data, parameter, flag, col_name, keep){
   
   pct_full$AVISITN <- as.numeric(as.character(pct_full$AVISITN))
   
-  return(pct_full)
+  return(pct)
 }
-
-
 
 

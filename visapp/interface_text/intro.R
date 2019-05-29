@@ -1,5 +1,4 @@
-intro <- HTML("Welcome to <b>SCRATCH</b> - the <b>S</b>elf-<b>C</b>ontained <b>R</b> <b>A</b>nimations (with 
-              <b>T</b>emplates and <b>C</b>ustomizations) <b>H</b>ub. 
+intro <- HTML("Welcome to <b>SCATR</b> - the <b>S</b>elf-<b>C</b>ontained <b>A</b>nimation <b>T</b>emplates in <b>R</b>. 
               This application takes ADaM data, formats it into the appropriate structure for your 
               selected animation template, makes simple customizations, and outputs the file into an mp4 video.
               
